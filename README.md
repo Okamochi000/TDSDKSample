@@ -1,0 +1,2 @@
+# TDSDKSample
+TDSDKのサンプルプロジェクト
